@@ -1,0 +1,13 @@
+.vh-btn {
+  border-radius: 8px;
+  background-color: #1f7999;
+  padding: 10px 30px;
+  font-size: 12px;
+  line-height: 18px;
+  letter-spacing: 0.7px;
+  text-align: center;
+  color: #ffffff;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
